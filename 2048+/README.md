@@ -1,4 +1,4 @@
-// privacy polices for the game 2048+
+# Privacy polices for the game 2048+
 
 
 ---
@@ -33,7 +33,7 @@ No se utilizan cookies ni otras tecnologías de seguimiento.
 
 ## 7. Información de contacto
 
-Si tienes alguna pregunta o preocupación sobre nuestra política de privacidad, por favor contáctanos en: correo@example.com
+Si tienes alguna pregunta o preocupación sobre nuestra política de privacidad, por favor contáctanos en: pabloavalos091@gmail.com
 
 ## 8. Cambios en la política de privacidad
 
